@@ -8,3 +8,9 @@ Additionally, a noise generator using a single-channel linear feedback shift reg
 Fully independent ADSR envelope implementation and dynamic parameter adjustment are supported for each of the 13 channels of the modular and carrier operators.
 
 By writing waveform data from the IDE, the program can operate standalone, enabling independent playback.
+
+# Play Demo
+sister's noise
+https://youtu.be/zvseDD7U9iQ
+seisyun complex
+https://youtu.be/zkQ4uGB2gYM
