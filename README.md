@@ -10,7 +10,7 @@ Fully independent ADSR envelope implementation and dynamic parameter adjustment 
 By writing waveform data from the IDE, the program can operate standalone, enabling independent playback.
 
 # Play Demo
-sister's noise
-https://youtu.be/zvseDD7U9iQ
-seisyun complex
-https://youtu.be/zkQ4uGB2gYM
+sister's noise  
+https://youtu.be/zvseDD7U9iQ  
+seisyun complex  
+https://youtu.be/zkQ4uGB2gYM  
