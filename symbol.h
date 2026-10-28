@@ -65,6 +65,7 @@
 #define RT12 3
 #define RT25 4
 #define RT50 5
+#define NOIS 6
 //エンベロープステータス
 #define ATTACK  0
 #define DECAY   1
